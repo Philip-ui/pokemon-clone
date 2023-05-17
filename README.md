@@ -3,9 +3,9 @@
 
 ### Links
 
-- Zoom Recording URL: [Add solution URL here](https://your-solution-url.com)
-- GitHub page URL:[Add GitHub page URL here](https://your-live-site-url.com)
-- Deployed GitHub page URL: [Add deployed GitHub page URL here](https://your-live-site-url.com)
+- Zoom Recording URL: [Add solution URL here](https://www.youtube.com/watch?v=EFw9NNYDml8&t=2s)
+- GitHub page URL:[Add GitHub page URL here](https://github.com/Philip-ui/pokemon-clone)
+- Deployed GitHub page URL: [Add deployed GitHub page URL here](https://philip-ui.github.io/pokemon-clone/)
 
 ## [Team Express]
 ### 1. What parts were you in charge of?
