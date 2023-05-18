@@ -57,8 +57,11 @@ main {
 }
 
 @media (min-width: 350px) {
+  header {
+    text-align: center;
+  }
   header img {
-    width: 100%;
+    width: 50%;
   }
 
   .button_menu {
